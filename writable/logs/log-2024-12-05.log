@@ -1,0 +1,420 @@
+CRITICAL - 2024-12-05 05:46:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(6): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:46:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(6): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:47:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(6): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:47:47 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(6): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:48:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(6): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:48:47 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(6): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:49:07 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(6): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:51:08 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(9): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:51:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(9): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:51:24 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(9): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:52:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(9): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:52:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(9): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:55:38 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "studentform.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('studentform.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studentform', [], true)
+ 3 APPPATH\Controllers\StudentController.php(9): view('studentform')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 05:57:13 --> ErrorException: include(display.php): Failed to open stream: No such file or directory
+[Method: GET, Route: user]
+in APPPATH\Views\studenfrom.php on line 134.
+ 1 APPPATH\Views\studenfrom.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(display.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\app\\Views\\studenfrom.php', 134)
+ 2 APPPATH\Views\studenfrom.php(134): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\app\\Views\\studenfrom.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('studenfrom', [], true)
+ 6 APPPATH\Controllers\StudentController.php(9): view('studenfrom')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 06:22:11 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::fetchAll
+[Method: GET, Route: student/fetchAll]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\StudentController.php(16): CodeIgniter\Model->__call('fetchAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->fetchAll()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 07:42:14 --> ParseError: syntax error, unexpected token ")"
+[Method: GET, Route: student]
+in APPPATH\Controllers\StudentController.php on line 24.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\app\\Controllers\\StudentController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\StudentController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\StudentController')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\StudentController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 08:32:19 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\StudentModel"
+[Method: POST, Route: student/insert]
+in SYSTEMPATH\Model.php on line 824.
+ 1 SYSTEMPATH\Model.php(824): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\StudentModel')
+ 2 SYSTEMPATH\BaseModel.php(821): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\StudentController.php(38): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 08:32:31 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\StudentModel"
+[Method: POST, Route: student/insert]
+in SYSTEMPATH\Model.php on line 824.
+ 1 SYSTEMPATH\Model.php(824): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\StudentModel')
+ 2 SYSTEMPATH\BaseModel.php(821): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\StudentController.php(38): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 08:54:04 --> CodeIgniter\Database\Exceptions\DataException: Allowed fields must be specified for model: "App\Models\StudentModel"
+[Method: POST, Route: student/insert]
+in SYSTEMPATH\Model.php on line 824.
+ 1 SYSTEMPATH\Model.php(824): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\StudentModel')
+ 2 SYSTEMPATH\BaseModel.php(821): CodeIgniter\Model->doProtectFieldsForInsert([...])
+ 3 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Controllers\StudentController.php(38): CodeIgniter\Model->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->insert()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+ERROR - 2024-12-05 08:57:50 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\komal\Codeigniter\crud\system\Database\MySQLi\Connection.php:186
+Stack trace:
+#0 C:\xampp\htdocs\komal\Codeigniter\crud\system\Database\MySQLi\Connection.php(186): mysqli->real_connect('localhost', '', Object(SensitiveParameterValue), 'studentdata', 3306, '', 0)
+#1 C:\xampp\htdocs\komal\Codeigniter\crud\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\komal\Codeigniter\crud\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\komal\Codeigniter\crud\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `st...', Array, false)
+#4 C:\xampp\htdocs\komal\Codeigniter\crud\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\komal\Codeigniter\crud\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\komal\Codeigniter\crud\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\komal\Codeigniter\crud\app\Controllers\StudentController.php(38): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\komal\Codeigniter\crud\system\CodeIgniter.php(933): App\Controllers\StudentController->insert()
+#9 C:\xampp\htdocs\komal\Codeigniter\crud\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+#10 C:\xampp\htdocs\komal\Codeigniter\crud\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\komal\Codeigniter\crud\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\komal\Codeigniter\crud\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\komal\Codeigniter\crud\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\xampp\htdocs\komal\Codeigniter\crud\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#15 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\komal\Codeigniter\crud\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\komal\Codeigniter\crud\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\komal\Codeigniter\crud\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\komal\Codeigniter\crud\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `st...', Array, false)
+#3 C:\xampp\htdocs\komal\Codeigniter\crud\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#4 C:\xampp\htdocs\komal\Codeigniter\crud\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#5 C:\xampp\htdocs\komal\Codeigniter\crud\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#6 C:\xampp\htdocs\komal\Codeigniter\crud\app\Controllers\StudentController.php(38): CodeIgniter\Model->insert(Array)
+#7 C:\xampp\htdocs\komal\Codeigniter\crud\system\CodeIgniter.php(933): App\Controllers\StudentController->insert()
+#8 C:\xampp\htdocs\komal\Codeigniter\crud\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+#9 C:\xampp\htdocs\komal\Codeigniter\crud\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\komal\Codeigniter\crud\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\komal\Codeigniter\crud\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\xampp\htdocs\komal\Codeigniter\crud\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 C:\xampp\htdocs\komal\Codeigniter\crud\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2024-12-05 08:57:50 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+[Method: POST, Route: student/insert]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `student` (`firstname`, `lastname`, `address`, `email`, `gender`, `pincode`, `course`, `image`) VALUES (:firstname:, :lastname:, :address:, :email:, :gender:, :pincode:, :course:, :image:)', [...], false)
+ 3 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 4 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 5 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 6 APPPATH\Controllers\StudentController.php(38): CodeIgniter\Model->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->insert()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 09:20:45 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::fetchAll
+[Method: GET, Route: student/fetchAll]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\StudentController.php(16): CodeIgniter\Model->__call('fetchAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->fetchAll()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 09:20:48 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::fetchAll
+[Method: GET, Route: student/fetchAll]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\StudentController.php(16): CodeIgniter\Model->__call('fetchAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->fetchAll()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 09:20:51 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::fetchAll
+[Method: GET, Route: student/fetchAll]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\StudentController.php(16): CodeIgniter\Model->__call('fetchAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->fetchAll()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 09:20:55 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::fetchAll
+[Method: GET, Route: student/fetchAll]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\StudentController.php(16): CodeIgniter\Model->__call('fetchAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->fetchAll()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 09:21:26 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::fetchAll
+[Method: GET, Route: student/fetchAll]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\StudentController.php(16): CodeIgniter\Model->__call('fetchAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->fetchAll()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 09:22:54 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::fetchAll
+[Method: GET, Route: student/fetchAll]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\StudentController.php(16): CodeIgniter\Model->__call('fetchAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->fetchAll()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 09:22:57 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::fetchAll
+[Method: GET, Route: student/fetchAll]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\StudentController.php(16): CodeIgniter\Model->__call('fetchAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->fetchAll()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 09:25:02 --> BadMethodCallException: Call to undefined method App\Models\StudentModel::fetchAll
+[Method: GET, Route: student/fetchAll]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\StudentController.php(16): CodeIgniter\Model->__call('fetchAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->fetchAll()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 10:57:55 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: PUT, Route: student/update/53]
+in SYSTEMPATH\BaseModel.php on line 1833.
+ 1 SYSTEMPATH\BaseModel.php(1833): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(997): CodeIgniter\BaseModel->transformDataToArray([], 'update')
+ 3 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [])
+ 4 APPPATH\Controllers\StudentController.php(51): CodeIgniter\Model->update('53', [])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->update('53')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
+CRITICAL - 2024-12-05 10:58:06 --> CodeIgniter\Database\Exceptions\DataException: There is no data to update.
+[Method: PUT, Route: student/update/53]
+in SYSTEMPATH\BaseModel.php on line 1833.
+ 1 SYSTEMPATH\BaseModel.php(1833): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\BaseModel.php(997): CodeIgniter\BaseModel->transformDataToArray([], 'update')
+ 3 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [])
+ 4 APPPATH\Controllers\StudentController.php(51): CodeIgniter\Model->update('53', [])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\StudentController->update('53')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\komal\\Codeigniter\\crud\\public\\index.php')
